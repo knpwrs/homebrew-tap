@@ -2,7 +2,7 @@ class Woodo < Formula
   desc "It's a weird tree"
   homepage "https://github.com/knpwrs/woodo"
   url "https://github.com/knpwrs/woodo/archive/refs/tags/v1.0.1.tar.gz"
-  sha256 "3a6c843767f26e07cf5817e8ef298c446be20b3a71302195408a1e53fa45cb3b"
+  sha256 "204cb366eb20e3d028b7fc39a8b790141e9a848cde041723139e08804b3b3aa5"
   license "MIT"
   head "https://github.com/knpwrs/woodo.git", branch: "main"
 
